@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="background">
+    <file>keyword_select.jpg</file>
+  </qresource>
+</RCC>
